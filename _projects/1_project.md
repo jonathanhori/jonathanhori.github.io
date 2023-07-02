@@ -2,7 +2,7 @@
 layout: page
 title: Assessing Cortisol Awakening Response in Women with Breast Cancer 
 description: Biostat 200B Final project
-img: assets/img/12.jpg
+img: 
 importance: 1
 category: school
 ---
